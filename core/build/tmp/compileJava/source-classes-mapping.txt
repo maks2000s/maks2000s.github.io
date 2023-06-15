@@ -1,0 +1,6 @@
+letscode/gdx/KeyboardAdapter.java
+ letscode.gdx.KeyboardAdapter
+letscode/gdx/Starter.java
+ letscode.gdx.Starter
+letscode/gdx/Panzer.java
+ letscode.gdx.Panzer
